@@ -1,0 +1,27 @@
+ *{
+     margin: 0;
+ }
+ header{
+    
+    background-color: rgb(252, 248, 248);
+    justify-content: space-between;
+    color: white;
+    height: auto;
+   
+ }
+ .fa-search{
+      padding: 10px;
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
+}
+.logo{
+    background-color: #009688!important;
+}
+.fa-house-damage{
+font-size:50px;
+padding: 10px;
+}
